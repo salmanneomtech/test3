@@ -87,7 +87,7 @@
   },
   "audio": {
     "i6ekg": {
-      "src": "es-trolldans-strom-1-.mp3",
+      "src": "background-audio.mp3",
       "loop": true,
       "volume": 0.25,
       "onLeave": "pause",
