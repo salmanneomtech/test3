@@ -7,10 +7,10 @@ body {
 ::-webkit-scrollbar {
   display: none;
 }
-.neom-scene {
+.pwb-scene {
   display: none;
 }
-.neom-scene > canvas {
+.pwb-scene > canvas {
   width: 100%;
   height: 100%;
   display: block;
