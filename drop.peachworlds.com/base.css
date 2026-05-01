@@ -1,12 +1,12 @@
-#pwb-body-wrap {
+#neom-body-wrap {
   opacity: 0;
   max-width: 100vw;
   max-height: 100vh;
   overflow: hidden;
 }
 
-/* only target div with id pwb-loading-wrap, body tag on loading screen will also have the same id */
-div#pwb-loading-wrap {
+/* only target div with id neom-loading-wrap, body tag on loading screen will also have the same id */
+div#neom-loading-wrap {
   position: absolute;
   top: 0;
   left: 0;
