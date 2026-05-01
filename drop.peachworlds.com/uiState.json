@@ -1,1 +1,133 @@
-{"devices":{"mobile":{"canvases":{"i1kf":{"cameraId":"2e666fb9-35b4-4c7b-843a-abc02d152d2d"}}},"tablet":{},"desktop":{}},"sections":{"ise2k-4":{"name":"1","offsetY":0,"hash":"1"},"ise2k-4-2":{"name":"5","offsetY":0,"hash":"5"}},"links":{"i7ibo":{"url":"https://peachworlds.com","type":"external","newTab":true},"ipgz5-4":{"url":"https://bit.ly/3YbXaei","type":"external","newTab":true},"ipgz5-2-2":{"url":"https://peachworlds.com","type":"external","newTab":true}},"scrollAnimations":{"ipgz5":{"type":"section","start":"bottom","effectA":{"keyframe":{"offsetY":30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"effectB":{"keyframe":{"offsetY":-30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"sectionId":"ise2k-4"},"ipgz5-2":{"type":"section","start":"bottom","effectA":{"keyframe":{"offsetY":30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"effectB":{"keyframe":{"offsetY":-30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"sectionId":"ise2k-4"},"ipgz5-3":{"type":"section","effectA":{"keyframe":{"offsetY":30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"effectB":{"keyframe":{"offsetY":-30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"sectionId":"ise2k-4-2"},"ipgz5-4":{"type":"section","effectA":{"keyframe":{"offsetY":30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"effectB":{"keyframe":{"offsetY":-30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"sectionId":"ise2k-4-2"},"ipgz5-2-2":{"type":"section","effectA":{"keyframe":{"offsetY":30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"effectB":{"keyframe":{"offsetY":-30,"opacity":0},"transition":{"type":"easeOut","duration":500}},"sectionId":"ise2k-4-2"}},"audio":{"i6ekg":{"src":"https://files.peachworlds.com/website/326cf7b6-217c-4e60-8bbb-9ea3e16fa6db/es-trolldans-strom-1-.mp3","loop":true,"volume":0.25,"onLeave":"pause","autoplay":true,"progress":0,"sourceType":"upload"}},"audioStyle":{"i6ekg":{"playCursor":"pointer","iconPlayUrl":"https://files.peachworlds.com/website/ff8a709d-16d0-4043-9808-8e14170e73d8/audio-on.svg","iconPauseUrl":"https://files.peachworlds.com/website/6a0a8775-b16c-4191-8aa3-87823143d44d/audio-mute.svg","playIconType":"custom","playIconColor":"#252627"}},"interactions":{"iz27l":[{"actions":[{"id":"iz3qu","type":"uiOverlay","event":"open"}],"mouseCursor":"pointer","triggerType":"mouseClick"}],"iici9-2":[{"actions":[{"id":"iz3qu","type":"uiOverlay","event":"close"}],"mouseCursor":"pointer","triggerType":"mouseClick"}]},"relativeOverlays":{"iz3qu":{"align":"center","position":"bottom","dismissType":"none","offsetParallel":0,"offsetOrthogonal":0}}}
+{
+  "devices": {
+    "mobile": {
+      "canvases": {
+        "i1kf": { "cameraId": "2e666fb9-35b4-4c7b-843a-abc02d152d2d" }
+      }
+    },
+    "tablet": {},
+    "desktop": {}
+  },
+  "sections": {
+    "ise2k-4": { "name": "1", "offsetY": 0, "hash": "1" },
+    "ise2k-4-2": { "name": "5", "offsetY": 0, "hash": "5" }
+  },
+  "links": {
+    "i7ibo": { "url": "#", "type": "external", "newTab": true },
+    "ipgz5-4": {
+      "url": "https://bit.ly/3YbXaei",
+      "type": "external",
+      "newTab": true
+    },
+    "ipgz5-2-2": { "url": "#", "type": "external", "newTab": true }
+  },
+  "scrollAnimations": {
+    "ipgz5": {
+      "type": "section",
+      "start": "bottom",
+      "effectA": {
+        "keyframe": { "offsetY": 30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "effectB": {
+        "keyframe": { "offsetY": -30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "sectionId": "ise2k-4"
+    },
+    "ipgz5-2": {
+      "type": "section",
+      "start": "bottom",
+      "effectA": {
+        "keyframe": { "offsetY": 30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "effectB": {
+        "keyframe": { "offsetY": -30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "sectionId": "ise2k-4"
+    },
+    "ipgz5-3": {
+      "type": "section",
+      "effectA": {
+        "keyframe": { "offsetY": 30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "effectB": {
+        "keyframe": { "offsetY": -30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "sectionId": "ise2k-4-2"
+    },
+    "ipgz5-4": {
+      "type": "section",
+      "effectA": {
+        "keyframe": { "offsetY": 30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "effectB": {
+        "keyframe": { "offsetY": -30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "sectionId": "ise2k-4-2"
+    },
+    "ipgz5-2-2": {
+      "type": "section",
+      "effectA": {
+        "keyframe": { "offsetY": 30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "effectB": {
+        "keyframe": { "offsetY": -30, "opacity": 0 },
+        "transition": { "type": "easeOut", "duration": 500 }
+      },
+      "sectionId": "ise2k-4-2"
+    }
+  },
+  "audio": {
+    "i6ekg": {
+      "src": "es-trolldans-strom-1-.mp3",
+      "loop": true,
+      "volume": 0.25,
+      "onLeave": "pause",
+      "autoplay": true,
+      "progress": 0,
+      "sourceType": "upload"
+    }
+  },
+  "audioStyle": {
+    "i6ekg": {
+      "playCursor": "pointer",
+      "iconPlayUrl": "audio-on.svg",
+      "iconPauseUrl": "audio-mute.svg",
+      "playIconType": "custom",
+      "playIconColor": "#252627"
+    }
+  },
+  "interactions": {
+    "iz27l": [
+      {
+        "actions": [{ "id": "iz3qu", "type": "uiOverlay", "event": "open" }],
+        "mouseCursor": "pointer",
+        "triggerType": "mouseClick"
+      }
+    ],
+    "iici9-2": [
+      {
+        "actions": [{ "id": "iz3qu", "type": "uiOverlay", "event": "close" }],
+        "mouseCursor": "pointer",
+        "triggerType": "mouseClick"
+      }
+    ]
+  },
+  "relativeOverlays": {
+    "iz3qu": {
+      "align": "center",
+      "position": "bottom",
+      "dismissType": "none",
+      "offsetParallel": 0,
+      "offsetOrthogonal": 0
+    }
+  }
+}
