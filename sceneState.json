@@ -1157,7 +1157,7 @@
         "name": "LOGO2",
         "type": "MESH",
         "uuid": "c43492dd-5c34-493c-ade7-ab765aece467",
-        "scale": { "x": 2.12, "y": 0.7, "z": 1 },
+        "scale": { "x": 3.5, "y": 1.15, "z": 1 },
         "visible": true,
         "geometry": {
           "type": "PLANE",
